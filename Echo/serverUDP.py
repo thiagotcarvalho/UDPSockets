@@ -1,4 +1,3 @@
-
 import socket
 
 SERVER_IP = 'localhost'
